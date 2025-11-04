@@ -1,2 +1,4 @@
-# voidai-t55
-VOIDAI T55 Project For ORAXIUM
+# VOIDAI T55 - ORAXIUM CORE
+Deployed from Termux on Infinix Note 30
+
+Commit pertama dari Queen 💪
